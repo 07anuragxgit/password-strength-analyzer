@@ -1,3 +1,4 @@
+
 # password_analyzer_web.py
 # Simple Flask web UI for your Password Strength Analyzer (SHA-256 demo)
 
